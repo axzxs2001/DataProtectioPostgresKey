@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProtectioPostgresKey", "DataProtectioPostgresKey\DataProtectioPostgresKey.csproj", "{DCCD4B37-343C-453E-B9D9-F198C279546E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCD4B37-343C-453E-B9D9-F198C279546E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCD4B37-343C-453E-B9D9-F198C279546E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCD4B37-343C-453E-B9D9-F198C279546E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCD4B37-343C-453E-B9D9-F198C279546E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4AD7D5-25F6-46A7-870A-56E5F74DA84B}
+	EndGlobalSection
+EndGlobal
