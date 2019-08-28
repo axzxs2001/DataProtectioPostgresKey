@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Xml.Linq;
 
-namespace DataProtectioPostgresPersist
+namespace DataProtectionPostgresPersist
 {
     /// <summary>
     /// Data Protection Postgres Extension

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataProtectioPostgresPersist
+namespace DataProtectionPostgresPersist
 {
     /// <summary>
     /// postgres table map entity class

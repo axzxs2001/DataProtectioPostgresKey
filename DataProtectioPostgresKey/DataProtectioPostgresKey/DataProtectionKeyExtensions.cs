@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 
 
-namespace DataProtectioPostgresPersist
+namespace DataProtectionPostgresPersist
 {
     /// <summary>
     /// DataProtectionKey Extensions
