@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>DataProtectionPostgresPersist</AssemblyName>
-    <RootNamespace>DataProtectionPostgresPersist</RootNamespace>
+    <RootNamespace>Microsoft.AspNetCore.DataProtection</RootNamespace>
     <RepositoryUrl>https://github.com/axzxs2001/DataProtectioPostgresKey.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageIconUrl>https://s.gravatar.com/userimage/127492023/df724e8c3fd9e368516db08e174ef09f.png?size=200</PackageIconUrl>
@@ -14,7 +14,7 @@
     <Product>DataProtectionPostgresPersist</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <PackageReleaseNotes>public void ConfigureServices(IServiceCollection services)
  {
         services.AddDataProtection().PersistKeysToPostgres(Configuration.GetConnectionString("Postgre"));

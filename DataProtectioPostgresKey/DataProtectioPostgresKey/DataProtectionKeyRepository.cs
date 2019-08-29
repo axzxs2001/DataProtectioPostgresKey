@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Xml.Linq;
 
-namespace DataProtectionPostgresPersist
+namespace Microsoft.AspNetCore.DataProtection
 {
     /// <summary>
     /// Data Protection Postgres Extension

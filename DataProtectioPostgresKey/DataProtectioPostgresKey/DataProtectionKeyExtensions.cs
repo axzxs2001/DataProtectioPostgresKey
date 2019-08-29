@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 
 
-namespace DataProtectionPostgresPersist
+namespace Microsoft.AspNetCore.DataProtection
 {
     /// <summary>
     /// DataProtectionKey Extensions

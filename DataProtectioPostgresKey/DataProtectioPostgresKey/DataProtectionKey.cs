@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataProtectionPostgresPersist
+namespace Microsoft.AspNetCore.DataProtection
 {
     /// <summary>
     /// postgres table map entity class
