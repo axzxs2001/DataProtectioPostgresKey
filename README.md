@@ -5,7 +5,8 @@ This project is a sava DataProtection Persist Key in postgres .
 
 > Install-Package DataProtectionPostgresPersist -Version 1.0.3
 
-    public void ConfigureServices(IServiceCollection services)
+  ```C#
+       public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
             {
@@ -17,3 +18,4 @@ This project is a sava DataProtection Persist Key in postgres .
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
+ ```
