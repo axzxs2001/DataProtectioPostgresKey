@@ -9,7 +9,13 @@ namespace Microsoft.AspNetCore.DataProtection
     /// </summary>
     public class DataProtectionKey
     {
+        /// <summary>
+        /// friendly name
+        /// </summary>
         public string FriendlyName { get; set; }
+        /// <summary>
+        /// xml content
+        /// </summary>
         public string XmlData { get; set; }
     }
 }
